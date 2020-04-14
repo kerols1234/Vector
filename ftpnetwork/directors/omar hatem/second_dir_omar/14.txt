@@ -1,0 +1,6 @@
+The transmission media (often referred to in the literature as the physical medium) used to link devices to form a computer network include electrical cable, optical fiber, and radio waves. In the OSI model, these are defined at layers 1 and 2 — the physical layer and the data link layer.
+A widely adopted family of transmission media used in local area network (LAN) technology is collectively known as Ethernet.
+ The media and protocol standards that enable communication between networked devices over Ethernet are defined by IEEE 802.3.
+ Ethernet transmits data over both copper and fiber cables.
+ Wireless LAN standards use radio waves, others use infrared signals as a transmission medium.
+ Power line communication uses a building's power cabling to transmit data.

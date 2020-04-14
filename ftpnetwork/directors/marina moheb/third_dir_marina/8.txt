@@ -1,0 +1,3 @@
+A network allows sharing of files, data, and other types of information giving authorized users the ability to access information stored on other computers on the network. 
+Distributed computing uses computing resources across a network to accomplish tasks.
+A computer network may be used by security hackers to deploy computer viruses or computer worms on devices connected to the network, or to prevent these devices from accessing the network via a denial-of-service attack.

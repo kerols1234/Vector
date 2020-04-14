@@ -1,0 +1,15 @@
+Wired technologies
+Bundle of glass threads with light emitting from the ends
+Fiber optic cables are used to transmit light from one computer/network node to another
+The following classes of wired technologies are used in computer networking.
+
+Coaxial cable is widely used for cable television systems, office buildings, and other work-sites for local area networks.
+ Transmission speed ranges from 200 million bits per second to more than 500 million bits per second.
+ITU-T G.hn technology uses existing home wiring (coaxial cable, phone lines and power lines) to create a high-speed local area network.
+Twisted pair cabling is used for wired Ethernet and other standards.
+ It typically consists of 4 pairs of copper cabling that can be utilized for both voice and data transmission. 
+The use of two wires twisted together helps to reduce crosstalk and electromagnetic induction. 
+The transmission speed ranges from 2 Mbit/s to 10 Gbit/s. Twisted pair cabling comes in two forms: unshielded twisted pair (UTP) and shielded twisted-pair (STP). Each form comes in several category ratings, designed for use in various scenarios.
+World map with red and blue lines
+2007 map showing submarine optical fiber telecommunication cables around the world.
+An optical fiber is a glass fiber. It carries pulses of light that represent data via lasers and optical amplifiers. Some advantages of optical fibers over metal wires are very low transmission loss and immunity to electrical interference. Using dense wave division multiplexing, optical fibers can simultaneously carry multiple streams of data on different wavelengths of light, which greatly increases the rate that data can be sent to up to trillions of bits per second. Optic fibers can be used for long runs of cable carrying very high data rates, and are used for undersea cables to interconnect continents. There are two basic types of fiber optics, single-mode optical fiber (SMF) and multi-mode optical fiber (MMF). Single-mode fiber has the advantage of being able to sustain a coherent signal for dozens or even a hundred kilometers. Multimode fiber is cheaper to terminate but is limited to a few hundred or even only a few dozens of meters, depending on the data rate and cable grade.[28]

@@ -1,0 +1,7 @@
+The physical layout of a network is usually less important than the topology that connects network nodes.
+Most diagrams that describe a physical network are therefore topological, rather than geographic.
+The symbols on these diagrams usually denote network links and network nodes.
+Network topology is the layout or organizational hierarchy of interconnected nodes of a computer network.
+Different network topologies can affect throughput, but reliability is often more critical.
+With many technologies, such as bus networks, a single failure can cause the network to fail entirely.
+In general the more interconnections there are, the more robust the network is; but the more expensive it is to install.

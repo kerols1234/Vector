@@ -1,0 +1,8 @@
+Computer communication links that do not support packets, such as traditional point-to-point telecommunication links, simply transmit data as a bit stream.
+ However, the overwhelming majority of computer networks carry their data in packets.
+ A network packet is a formatted unit of data (a list of bits or bytes, usually a few tens of bytes to a few kilobytes long) carried by a packet-switched network.
+ Packets are sent through the network to their destination.
+ Once the packets arrive they are reassembled into their original message.
+Packets consist of two kinds of data: control information, and user data (payload).
+ The control information provides data the network needs to deliver the user data; for example: source and destination network addresses, error detection codes, and sequencing information.
+ Typically, control information is found in packet headers and trailers, with payload data in between.

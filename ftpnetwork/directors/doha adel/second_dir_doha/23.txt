@@ -1,0 +1,2 @@
+A firewall is a network device for controlling network security and access rules. Firewalls are typically configured to reject access requests from unrecognized sources while allowing actions from recognized ones.
+ The vital role firewalls play in network security grows in parallel with the constant increase in cyber attacks.

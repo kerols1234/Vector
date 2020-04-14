@@ -1,0 +1,6 @@
+Backbone network
+A backbone network is part of a computer network infrastructure that provides a path for the exchange of information between different LANs or sub-networks. A backbone can tie together diverse networks within the same building, across different buildings, or over a wide area.
+
+For example, a large company might implement a backbone network to connect departments that are located around the world. The equipment that ties together the departmental networks constitutes the network backbone. When designing a network backbone, network performance and network congestion are critical factors to take into account. Normally, the backbone network's capacity is greater than that of the individual networks connected to it.
+
+Another example of a backbone network is the Internet backbone, which is a massive, global system of fiber-optic cable and optical networking that carry the bulk of data between wide area networks (WANs), metro, regional, national and transoceanic networks.

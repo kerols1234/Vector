@@ -1,0 +1,24 @@
+first_dir_omar
+C:\\Users\\kerols\\Desktop\\project net\\directors\\omar hatem\\first_dir_omar
+second_dir_omar
+C:\\Users\\kerols\\Desktop\\project net\\directors\\omar hatem\\second_dir_omar
+third_dir_omar
+C:\\Users\\kerols\\Desktop\\project net\\directors\\omar hatem\\third_dir_omar
+first_dir_marina
+C:\\Users\\kerols\\Desktop\\project net\\directors\\marina moheb\\first_dir_marina
+second_dir_marina
+C:\\Users\\kerols\\Desktop\\project net\\directors\\marina moheb\\second_dir_marina
+third_dir_marina
+C:\\Users\\kerols\\Desktop\\project net\\directors\\marina moheb\\third_dir_marina
+first_dir_doha
+C:\\Users\\kerols\\Desktop\\project net\\directors\\doha adel\\first_dir_doha
+second_dir_doha
+C:\\Users\\kerols\\Desktop\\project net\\directors\\doha adel\\second_dir_doha
+third_dir_doha
+C:\\Users\\kerols\\Desktop\\project net\\directors\\doha adel\\third_dir_doha
+first_dir_mikhael
+C:\\Users\\kerols\\Desktop\\project net\\directors\\mikhael\\first_dir_mikhael
+second_dir_mikhael
+C:\\Users\\kerols\\Desktop\\project net\\directors\\mikhael\\second_dir_mikhael
+third_dir_mikhael
+C:\\Users\\kerols\\Desktop\\project net\\directors\\mikhael\\third_dir_mikhael

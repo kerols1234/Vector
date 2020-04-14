@@ -1,0 +1,6 @@
+The most striking example of an overlay network is the Internet itself. The Internet itself was initially built as an overlay on the telephone network.
+ Even today, each Internet node can communicate with virtually any other through an underlying mesh of sub-networks of wildly different topologies and technologies.
+ Address resolution and routing are the means that allow mapping of a fully connected IP overlay network to its underlying network.
+
+Another example of an overlay network is a distributed hash table, which maps keys to nodes in the network.
+ In this case, the underlying network is an IP network, and the overlay network is a table (actually a map) indexed by keys.

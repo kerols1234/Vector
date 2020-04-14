@@ -1,0 +1,7 @@
+Exotic technologies
+There have been various attempts at transporting data over exotic media.
+
+IP over Avian Carriers was a humorous April fool's Request for Comments, issued as RFC 1149. 
+It was implemented in real life in 2001.[29]
+Extending the Internet to interplanetary dimensions via radio waves, the Interplanetary Internet.[30]
+Both cases have a large round-trip delay time, which gives slow two-way communication, but doesn't prevent sending large amounts of information.

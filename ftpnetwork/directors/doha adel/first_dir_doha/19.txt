@@ -1,0 +1,7 @@
+A network bridge connects and filters traffic between two network segments at the data link layer (layer 2) of the OSI model to form a single network. This breaks the network's collision domain but maintains a unified broadcast domain. Network segmentation breaks down a large, congested network into an aggregation of smaller, more efficient networks.
+
+Bridges come in three basic types:
+
+Local bridges: Directly connect LANs
+Remote bridges: Can be used to create a wide area network (WAN) link between LANs. Remote bridges, where the connecting link is slower than the end networks, largely have been replaced with routers.
+Wireless bridges: Can be used to join LANs or connect remote devices to LANs.
