@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1577477167 source:c:\users\kerols\desktop\assi.3\src\course.cpp
+	"course.h"
+	<string>
+
+1577480554 c:\users\kerols\desktop\assi.3\include\course.h
+	<string>
+	<iostream>
+
+1576921891 source:c:\users\kerols\desktop\assi.3\src\exp.cpp
+	"EXP.h"
+
+1576923851 c:\users\kerols\desktop\assi.3\include\exp.h
+	<exception>
+
+1576885757 source:c:\users\kerols\desktop\assi.3\src\fcivector.cpp
+	"FCIvector.h"
+
+1577617458 c:\users\kerols\desktop\assi.3\include\fcivector.h
+	<algorithm>
+	<exception>
+	<EXP.h>
+	<iostream>
+
+1577477087 source:c:\users\kerols\desktop\assi.3\src\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
+1577480715 c:\users\kerols\desktop\assi.3\include\student.h
+	<string>
+	<FCIvector.h>
+	<course.h>
+
+1577523524 source:c:\users\kerols\desktop\assi.3\main.cpp
+	<iostream>
+	<exception>
+	<FCIvector.h>
+	<EXP.h>
+	<student.h>
+	<course.h>
+
+1577523526 source:e:\project\second year\assi.3\main.cpp
+	<iostream>
+	<exception>
+	<FCIvector.h>
+	<EXP.h>
+	<student.h>
+	<course.h>
+
+1577617460 e:\project\second year\assi.3\include\fcivector.h
+	<algorithm>
+	<exception>
+	<EXP.h>
+	<iostream>
+
+1576923852 e:\project\second year\assi.3\include\exp.h
+	<exception>
+
+1577480716 e:\project\second year\assi.3\include\student.h
+	<string>
+	<FCIvector.h>
+	<course.h>
+
+1577480556 e:\project\second year\assi.3\include\course.h
+	<string>
+	<iostream>
+
+1577477168 source:e:\project\second year\assi.3\src\course.cpp
+	"course.h"
+	<string>
+
+1576921892 source:e:\project\second year\assi.3\src\exp.cpp
+	"EXP.h"
+
+1576885758 source:e:\project\second year\assi.3\src\fcivector.cpp
+	"FCIvector.h"
+
+1577477088 source:e:\project\second year\assi.3\src\student.cpp
+	"student.h"
+	<string>
+	<iostream>
+
