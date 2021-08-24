@@ -1,2 +1,0 @@
-# kerols
-web devloper
